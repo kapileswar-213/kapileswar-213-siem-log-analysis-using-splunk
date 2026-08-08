@@ -1,0 +1,23 @@
+# Secrets
+.env
+*.key
+*.pem
+*.pfx
+secrets/
+credentials/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Large/raw files
+*.pcap
+*.evtx
+*.exe
+*.dll
+*.zip
+*.7z

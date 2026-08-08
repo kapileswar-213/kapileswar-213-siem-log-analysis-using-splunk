@@ -1,0 +1,3 @@
+SigninLogs
+| summarize LoginCount=count() by UserPrincipalName, IPAddress, ResultType
+| order by LoginCount desc

@@ -1,0 +1,4 @@
+DeviceProcessEvents
+| where FileName =~ "powershell.exe"
+| where ProcessCommandLine has_any ("-EncodedCommand", "-ExecutionPolicy Bypass")
+| project Timestamp, DeviceName, AccountName, ProcessCommandLine

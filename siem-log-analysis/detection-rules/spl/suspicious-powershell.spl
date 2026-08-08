@@ -1,0 +1,3 @@
+index=windows powershell
+| search command_line="*-EncodedCommand*" OR command_line="*-ExecutionPolicy Bypass*"
+| table _time host user parent_process command_line

@@ -1,0 +1,2 @@
+index=sysmon EventCode=1
+| table _time host user parent_process process command_line
