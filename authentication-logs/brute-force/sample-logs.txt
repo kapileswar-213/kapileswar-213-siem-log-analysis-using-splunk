@@ -1,0 +1,7 @@
+# Synthetic sample data
+2026-08-08 10:01:21 EventCode=4625 User=admin SourceIP=192.168.1.50 Host=WIN-SRV01
+2026-08-08 10:01:25 EventCode=4625 User=admin SourceIP=192.168.1.50 Host=WIN-SRV01
+2026-08-08 10:01:29 EventCode=4625 User=admin SourceIP=192.168.1.50 Host=WIN-SRV01
+2026-08-08 10:01:34 EventCode=4625 User=admin SourceIP=192.168.1.50 Host=WIN-SRV01
+2026-08-08 10:01:39 EventCode=4625 User=admin SourceIP=192.168.1.50 Host=WIN-SRV01
+2026-08-08 10:01:44 EventCode=4624 User=admin SourceIP=192.168.1.50 Host=WIN-SRV01
