@@ -1,0 +1,3 @@
+2026-08-08 10:00:01 EventCode=4625 User=alice SourceIP=10.10.10.25 Host=WIN-CLIENT01
+2026-08-08 10:00:05 EventCode=4625 User=alice SourceIP=10.10.10.25 Host=WIN-CLIENT01
+2026-08-08 10:00:09 EventCode=4625 User=alice SourceIP=10.10.10.25 Host=WIN-CLIENT01
